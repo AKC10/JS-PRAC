@@ -10,7 +10,7 @@ Fahrenheit = Math.floor(Fahrenheit);
 console.log (`The temperature is ${Fahrenheit} degrees Fahrenheit.`);
 
 
-/*Newton Conversion 
+/*Newton Conversion (remove comment to access code)
 const kelvin = 0;
 //conversion K --> C
 let celsius = kelvin - 273; 
